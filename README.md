@@ -28,7 +28,7 @@
 
 <p><strong><span style="font-family:Georgia,serif;"><span style="font-size:14px;">Click on the link to download Sitecore XM Cloud Developer questions in one click:&nbsp;<a href="https://www.justcerts.com/sitecore/sitecore-xm-cloud-developer-practice-questions.html">https://www.justcerts.com/sitecore/sitecore-xm-cloud-developer-practice-questions.html</a></span></span></strong></p>
 
-<p><strong><span style="font-family:Georgia,serif;"><span style="font-size:14px;">Get UpTo 25% Discount By Applying Promo Code &quot;geek25off&quot; | Limited Time Offer</span></span></strong></p>
+<p><strong><span style="font-family:Georgia,serif;"><span style="font-size:14px;">Get UpTo 25% Discount By Applying Promo Code &quot;SAVE25&quot; | Limited Time Offer</span></span></strong></p>
 
 <h2><strong>Key Benefits and Features</strong></h2>
 
